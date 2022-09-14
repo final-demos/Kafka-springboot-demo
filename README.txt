@@ -1,3 +1,6 @@
+1. Download Kafka from https://drive.google.com/file/d/1cf1ijv981Xx5_I8XvVvRPznGi-gwsyP_/view?usp=sharing
+2. unzip it under C:/kafka-demo
+finish the steps
 To start zookeeper
 
 zookeeper-server-start.bat *path to your zookeeper.properties file* 
